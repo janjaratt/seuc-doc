@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="หน้า-1" id="ZxnItBxDrABQzpABbAtW">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zZXyO9KnFLRhv8u2p3xe-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zZXyO9KnFLRhv8u2p3xe-28" target="zZXyO9KnFLRhv8u2p3xe-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZXyO9KnFLRhv8u2p3xe-28" value="School" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="110" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZXyO9KnFLRhv8u2p3xe-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zZXyO9KnFLRhv8u2p3xe-31" target="zZXyO9KnFLRhv8u2p3xe-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZXyO9KnFLRhv8u2p3xe-31" value="Teacher" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="110" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZXyO9KnFLRhv8u2p3xe-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zZXyO9KnFLRhv8u2p3xe-32" target="zZXyO9KnFLRhv8u2p3xe-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZXyO9KnFLRhv8u2p3xe-32" value="Student" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="110" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZXyO9KnFLRhv8u2p3xe-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zZXyO9KnFLRhv8u2p3xe-38" target="zZXyO9KnFLRhv8u2p3xe-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZXyO9KnFLRhv8u2p3xe-38" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;District&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZXyO9KnFLRhv8u2p3xe-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zZXyO9KnFLRhv8u2p3xe-39" target="zZXyO9KnFLRhv8u2p3xe-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZXyO9KnFLRhv8u2p3xe-39" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Province&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZXyO9KnFLRhv8u2p3xe-40" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;ระดับกรุงเทพมหานคร และสำนักการศึกษา&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="190" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZXyO9KnFLRhv8u2p3xe-42" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;ระดับสำนักงานเขต&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZXyO9KnFLRhv8u2p3xe-44" value="ระดับโรงเรียน" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZXyO9KnFLRhv8u2p3xe-46" value="ระดับอาจารย์" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="310" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZXyO9KnFLRhv8u2p3xe-48" value="ระดับนักเรียน" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="310" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZXyO9KnFLRhv8u2p3xe-50" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Role&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="580" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
